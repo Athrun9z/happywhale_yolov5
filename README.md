@@ -7,15 +7,15 @@ and I've been puzzling over it for a long time, so I've decided to ask about it 
 here is the structure about this repostory:
 
 
-happywhale_yolov5
-│
-├── dataset
-│   ├── images
-│   ├── labels
-│
-├── make_labels.ipynb # this notebook base on the awsaf's notebook on kaggle  https://www.kaggle.com/code/awsaf49/happywhale-boundingbox-yolov5
-│   ├── AnotherFile.txt
-│   └── Image.jpg
-│
-└── yolov5 # clone on ultralytics 
+happywhale_yolov5<br>
+│<br>
+├── dataset<br>
+│   ├── images<br>
+│   ├── labels<br>
+│<br>
+├── make_labels.ipynb # this notebook base on the awsaf's notebook on kaggle  https://www.kaggle.com/code/awsaf49/happywhale-boundingbox-yolov5<br>
+│   ├── AnotherFile.txt<br>
+│   └── Image.jpg<br>
+│<br>
+└── yolov5 # clone on ultralytics <br>
  
